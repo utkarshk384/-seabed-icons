@@ -1,0 +1,12 @@
+illustrations
+*.ai
+
+node_modules
+yarn.lock
+export
+
+.env
+.npmrc
+
+changelog-template.hbs
+seabed-icons.code-workspace
