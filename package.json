@@ -1,11 +1,13 @@
 {
-  "name": "seabed-icons",
-  "version": "1.0.0",
+  "name": "seabedui-icons",
+  "version": "1.0.3",
   "description": "Icon pack for SeabedUI",
-  "main": "index.js",
   "author": "Utkarsh Kumar <utkarshk384@gmail.com>",
   "license": "MIT",
   "type": "commonjs",
+  "repository": "https://github.com/utkarshk384/seabed-icons.git",
+  "homepage": "https://github.com/utkarshk384/seabed-icons",
+  "private": false,
   "scripts": {
     "clean:duotone": "yarn shx rm -rf ./export/duotone/*",
     "clean:solid": "yarn shx rm -rf ./export/solid/*",
@@ -14,7 +16,8 @@
     "build:solid": "yarn svgo -f export/solid -o icons",
     "build:outline": "yarn svgo -f export/outline -o icons",
     "build": "node ./src/index.js",
-    "postbuild": "yarn npm-run-all clean:*"
+    "postbuild": "yarn npm-run-all clean:*",
+    "release": "release-it"
   },
   "dependencies": {
     "gulp": "^4.0.2",

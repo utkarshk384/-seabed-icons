@@ -2,3 +2,6 @@ src
 illustrations
 icons
 export
+.env
+seabed-icons.code-workspace
+changelog-template.hbs
