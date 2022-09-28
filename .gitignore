@@ -10,3 +10,4 @@ export
 
 changelog-template.hbs
 seabed-icons.code-workspace
+.npmignore

@@ -5,3 +5,5 @@ export
 .env
 seabed-icons.code-workspace
 changelog-template.hbs
+.release-it.json
+.npmrc
