@@ -1,6 +1,6 @@
 {
   "name": "seabedui-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Icon pack for SeabedUI",
   "author": "Utkarsh Kumar <utkarshk384@gmail.com>",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "postbuild": "yarn npm-run-all clean:*",
     "release": "release-it"
   },
-  "dependencies": {
+  "devDependencies": {
     "auto-changelog": "^2.4.0",
     "fontello-cli": "^0.6.2",
     "gulp": "^4.0.2",
