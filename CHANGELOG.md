@@ -2,9 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.7](https://github.com/utkarshk384/seabed-icons/compare/1.0.6...1.0.7) (29 September 2022)
+
+- Removed bg from icons [`a945f29`](https://github.com/utkarshk384/seabed-icons/commit/a945f29f914ea480b8c0d03ca351b5489621c1ec)
+
 # [1.0.6](https://github.com/utkarshk384/seabed-icons/compare/1.0.5...1.0.6) (28 September 2022)
 
 - Made icons bigger [`a7406b3`](https://github.com/utkarshk384/seabed-icons/commit/a7406b3750bb6ddf17d0d723dbdc05ae7c9f68d5)
+- chore: release v1.0.6 [`1c24e52`](https://github.com/utkarshk384/seabed-icons/commit/1c24e528169f96c9855bda49cee778ca396a4345)
 
 # [1.0.5](https://github.com/utkarshk384/seabed-icons/compare/1.0.4...1.0.5) (28 September 2022)
 
